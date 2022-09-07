@@ -1,0 +1,3 @@
+let persona = {
+    name: 'Julito'
+};
